@@ -1,0 +1,21 @@
+.details{
+    background-color:green;
+    color:white;
+}
+.objective{
+    background-color:orange;
+    color:blue;
+}
+.Education{
+    background-color: cadetblue;
+    color:red;
+}
+.skills{
+    background-color: aqua;
+    color:black;
+    
+}
+.Declaration{
+    background-color: coral;
+    color:darkblue;
+}
